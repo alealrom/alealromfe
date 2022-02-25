@@ -28,7 +28,7 @@ export default {
 #cita {
   background-color: #000000;
   border-radius: 10px;
-  margin: 36px 0px 160px 0px;
+  margin: 36px 0px 20px 0px;
   padding: 0px 10px 0px 10px;
 }
 
@@ -36,7 +36,7 @@ export default {
   font-family: "Brawler", serif;
   font-size: 100pt;
   line-height: 50pt;
-  color: #ffc600;
+  color: #f0A500;
   text-align: right;
   margin: 25px 15px -20px 15px;
 }

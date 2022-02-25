@@ -43,7 +43,7 @@ export default {
   font-family: "Brawler", serif;
   font-size: 12.5pt;
   font-weight: bold;
-  color: #ffc600;
+  color: #fd0054;;
   text-align: left;
   margin: 20px 5px 5px 15px;
 }
@@ -57,7 +57,7 @@ export default {
 }
 
 .button {
-  background-color: #ffc600;
+  background-color: #fd0054;;
   border-radius: 5px;
   font-family: "Cutive Mono", monospace;
   font-weight: bold;

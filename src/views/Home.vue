@@ -9,7 +9,7 @@
         </div>
         <div class="linea"></div>
         <div class="row">
-          <Blog />
+          <Blogs />
           <Cita />
         </div>
       </div>
@@ -21,15 +21,12 @@
 import SobreMi from "@/components/SobreMi";
 import Habilidades from "@/components/Habilidades";
 import Contacto from "@/components/Contacto";
-import Blog from "@/components/Blog";
+import Blogs from "@/components/Blogs"
 import Cita from "@/components/Cita";
 
 export default {
   name: "Home",
-  components: { SobreMi, Habilidades, Contacto, Blog, Cita },
-  data: function () {},
-  methods: {},
-  created: function () {},
+  components: { SobreMi, Habilidades, Contacto, Blogs, Cita },
 };
 </script>
 
@@ -49,6 +46,6 @@ export default {
   padding: 0px 0px 0px 5px;
   text-align: left;
   border-radius: 3px;
-  border-left: 5px solid #ffc600;
+  border-left: 5px solid #fd0054;
 }
 </style>

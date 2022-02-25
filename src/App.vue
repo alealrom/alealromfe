@@ -184,8 +184,8 @@ export default {
 }
 
 header {
-  border-bottom: 2px solid #ffc600;
-  border-top: 10px solid #ffc600;
+  border-bottom: 2px solid #fd0054;
+  border-top: 10px solid #fd0054;
   margin: 40px 0px 0px 0px;
   text-align: center;
 }
@@ -211,7 +211,6 @@ h2 {
 
 footer {
   border-top: 2px solid #000000;
-  margin: 40px 0px 0px 0px;
 }
 
 ul {
