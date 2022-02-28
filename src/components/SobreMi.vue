@@ -41,7 +41,7 @@ export default {
 #sobremi {
   background-color: #000000;
   border-radius: 10px;
-  margin: 25px 0px 0px 0px;
+  margin: 30px 0px 0px 0px;
 }
 
 .sobre_mi {
@@ -62,6 +62,6 @@ export default {
   font-size: 12.5pt;
   color: #fcfcfa;
   text-align: justify;
-  margin: 0px 15px 0px 15px;
+  margin: 0px 25px 0px 25px;
 }
 </style>

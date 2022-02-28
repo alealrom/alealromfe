@@ -7,19 +7,21 @@
         :key="index"
         class="group"
       >
-        <h5>{{ section }}</h5>
         <div class="section" v-for="entry in entries[section]" :key="entry.id">
           <div class="entry">
-            <span id="tblogs" @click="$router.push({ name: entry.id })">
+            <h5 @click="$router.push({ name: entry.id })">
               {{ entry.title }}
-              <p id="tblogs" class="subtitle">{{ entry.date }}</p>
-            </span>
+              <h6 class="subtitle">{{ entry.date }}</h6>
+            </h5>
             <div class="row">
-              <img class="imgblog col-12 col-lg-4" :src="`${ entry.img }`" alt="">
-              <div class="col-12 col-lg-8">
-                <p id="textblog">{{ entry.description }}</p>
-              </div>
+              <img
+                class="imgblog col-12"
+                v-bind:src="(`${entry.img}`)"
+                alt=""
+              />
+              <p id="textblog" class="col-8">{{ entry.description }}</p>
             </div>
+            <div class="separador"></div>
           </div>
         </div>
       </div>
@@ -42,7 +44,11 @@ export default {
 
 <style>
 #blogs {
-  margin: 25px 0px 20px 0px;
+  margin: 30px 0px 0px 0px;
+}
+
+.section {
+  margin-top: 25px;
 }
 
 h5 {
@@ -53,19 +59,9 @@ h5 {
   margin: 0px 0px 3px 25px;
 }
 
-#tblogs {
-  font-family: "Brawler", serif;
-  font-weight: bold;
-  font-size: 12.5pt;
-  color: #000000;
-  text-align: justify;
-  margin: 0px 0px 5px 25px;
-}
-
 .imgblog {
   max-width: 25%;
-  margin: 0px -40px 0px 25px;
-  
+  margin: 0px -25px 0px 25px;
 }
 
 #textblog {
@@ -73,6 +69,11 @@ h5 {
   font-size: 12.5pt;
   color: #000000;
   text-align: justify;
-  margin: 0px 0px 20px 25px;
+  margin: 0px 5px 10px 20px;
+}
+
+.separador {
+  border-bottom: 2px solid #f0a500;
+  margin: 30px 0px 0px 0px;
 }
 </style>

@@ -1,17 +1,18 @@
 {
-    "": [
+    "2022": [
       {
-        "img": "/assets/blogassets/creativity.jpg",
-        "id": "maud-sparrow",
-        "date": "April 21, 2018",
-        "title": "Maud Sparrow and the Four Wicked Horses",
-        "description": "Once upon a time there was a generous girl called Maud Sparrow. She was on the way to see her Albert Connor, when she decided to take a short cut through Spittleton Woods..."
+        "img": "/assets/blogassets/roadmap-pragma.jpg",
+        "id": "experiencia-roadmap-pragma",
+        "date": "Febrero, 2022",
+        "title": "Mi experiencia en el ROADMAP de un Front-End de Pragma",
+        "description": "El día 16 de Diciembre siendo las 9:00am, me conecte por Zoom para ser parte de este roadmap* Realmente, no sabía que esperar, contaba con los conocimientos básicos sobre el mundo de la programación y del front-end, así que sí estaba un poco asustada.  Sinceramente, lo que no quería era sentirme fuera de contexto..."
       },
       {
-        "id": "nico-borbaki",
-        "date": "May 5, 2018",
-        "title": "Nefarious Nico Borbaki",
-        "description": "Nico Borbaki looked at the enchanted newspaper in his hands and felt conflicted..."
+        "img": "/assets/blogassets/mariposa-monarca.jpg",
+        "id": "viaje-alejandra",
+        "date": "Febrero, 2022",
+        "title": "El viaje de casi 30 años de Alejandra",
+        "description": "Durante largos cinco años, estudié está gran carrera en la Universidad del Quindío, durante este tiempo aprendí muchas cosas. Construí amistades. junto con mis compañeros ganamos un premio a Mejor Argumental con nuestro cortometraje Para: Papá, un cumpleaños inolvidable."
       }
     ]
   }

@@ -11,9 +11,8 @@
     <router-view />
 
     <footer>
-      <div class="container">
-        <ul class="justify-content-center list-unstyled d-flex">
-          <li class="ms-3"><h5>© alealrom.com</h5></li>
+      <h5 style="text-align:center">© alealrom.com</h5>
+      <div class="justify-content-center list-unstyled d-flex">
           <li class="ms-3">
             <a class="text-muted" href="#"
               ><svg
@@ -74,7 +73,6 @@
                 /></svg
             ></a>
           </li>
-        </ul>
       </div>
     </footer>
   </div>
@@ -184,8 +182,8 @@ export default {
 }
 
 header {
-  border-bottom: 2px solid #fd0054;
-  border-top: 10px solid #fd0054;
+  border-bottom: 2px solid #f0a500;
+  border-top: 10px solid #f0a500;
   margin: 40px 0px 0px 0px;
   text-align: center;
 }
@@ -211,13 +209,11 @@ h2 {
 
 footer {
   border-top: 2px solid #000000;
-}
-
-ul {
-  align-items: center;
+  margin: 20px 0px 0px 0px;
 }
 
 li {
-  margin-top: 20px;
+  margin-top: 5px;
+  margin-bottom: 20px;
 }
 </style>

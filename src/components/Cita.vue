@@ -1,26 +1,24 @@
 <template>
   <div class="container-fluid col-lg-4 col-sm-12 col-md-12">
     <div id="cita">
-      <br />
       <p class="comillas">"</p>
       <p class="t-cita">
         El futuro pertenece a quienes creen en la belleza de los sueños.
       </p>
       <p class="t-autor">-ELEANOR ROOSEVELT-</p>
-      <br />
+      <div class="base"></div>
     </div>
+    <Curriculum />
   </div>
 </template>
 
 <script>
+import Curriculum from "@/components/Curriculum";
+
 export default {
   name: "Cita",
+  components: { Curriculum}
 
-  data: function () {},
-
-  methods: {},
-
-  created: function () {},
 };
 </script>
 
@@ -28,8 +26,8 @@ export default {
 #cita {
   background-color: #000000;
   border-radius: 10px;
-  margin: 36px 0px 20px 0px;
-  padding: 0px 10px 0px 10px;
+  margin: 107px 0px 60px 0px;
+  padding: 20px 10px;
 }
 
 .comillas {

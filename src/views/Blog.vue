@@ -1,20 +1,34 @@
 <template>
-  <div id="blogs" class="container-fluid">
+  <div id="blog" class="container-fluid col-lg-12 col-sm-12 col-md-12">
     <h3 class="subtitulos">BLOG</h3>
     <div class="sections">
-      <div v-for="(section, index) in Object.keys(entries)" :key="index" class="group">
-        <h5 class="center">{{section}}</h5>
+      <div
+        v-for="(section, index) in Object.keys(entries)"
+        :key="index"
+        class="group"
+      >
         <div class="section" v-for="entry in entries[section]" :key="entry.id">
           <div class="entry">
-            <span id="tblog" @click="$router.push({name: entry.id})">
-              {{entry.title}}
-              <p id="tblog" class="subtitle">{{entry.date}}</p>
-            </span>
-            <p id="textblog">{{entry.description}}</p>
+            <h5 @click="$router.push({ name: entry.id })">
+              {{ entry.title }}
+              <h6 class="subtitle">{{ entry.date }}</h6>
+            </h5>
+            <div class="row">
+              <img
+                class="blogimg col-12"
+                :src="`${entry.img}`"
+                alt=""
+              />
+              <p id="textblog" class="col-9">{{ entry.description }}</p>
+            </div>
+            <div class="line"></div>
           </div>
         </div>
       </div>
     </div>
+    <router-view />
+    <br/>
+    <router-link to="/" tag="a" class="back">-INICIO-</router-link>
   </div>
 </template>
 
@@ -31,10 +45,16 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
-#blogs {
-  margin: 25px 0px 0px 0px;
-  padding: 0px 10px 0px 10px;
+<style>
+#blog {
+  margin: 30px auto;
+  max-width: 1024px;
+  text-align: justify;
+}
+
+.blogimg {
+  max-width: 20%;
+  margin: 0px -25px 0px 25px;
 }
 
 h5 {
@@ -45,20 +65,16 @@ h5 {
   margin: 0px 0px 3px 25px;
 }
 
-#tblog {
-  font-family: "Brawler", serif;
-  font-weight: bold;
-  font-size: 12.5pt;
-  color: #000000;
-  text-align: justify;
-  margin: 0px 0px 5px 25px;
-}
-
 #textblog {
   font-family: "Brawler", serif;
   font-size: 12.5pt;
   color: #000000;
   text-align: justify;
-  margin: 0px 25px 15px 25px;
+  margin: 0px 0px 15px 25px;
+}
+
+.line {
+  border-bottom: 2px solid #f0a500;
+  margin: 20px 0px 10px 0px;
 }
 </style>

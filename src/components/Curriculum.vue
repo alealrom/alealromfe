@@ -1,18 +1,26 @@
 <template>
-  <div id="entradas" class="container-fluid">
-    <router-view />
-    <router-link to="/blog" tag="a" class="back">-VOLVER-</router-link>
-  </div>
+<div class="curriculum">
+  <div class="container-fluid col-12">
+      <center><a class="button" src="#">-VER CURRICULUM-</a></center>
+      </div>
+</div>
 </template>
 
-<style>
-#entradas {
-  margin: 30px auto;
-  max-width: 1024px;
-  text-align: justify;
-}
+<script>
+export default {
+  name: "Curriculum",
 
-.back{
+  data: function () {},
+
+  methods: {},
+
+  created: function () {},
+};
+</script>
+
+<style>
+
+.button {
   background-color: #000000;
   border-radius: 5px;
   font-family: "Cutive Mono", monospace;
@@ -22,10 +30,9 @@
   font-size: 25px;
   padding: 12px 28px;
   transition-duration: 0.4s;
-  margin: 0px 0px 0px 15px;
 }
 
-.back:hover {
+.button:hover {
   background-color:#cf7500;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   color: #ffffff;
