@@ -33,7 +33,7 @@ export default new Router({
     },
     {
       path: "/blog",
-      name: "blog",
+      name: "blogs",
       component: Blog
     },
     {
