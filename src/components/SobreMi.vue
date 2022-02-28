@@ -12,7 +12,7 @@
       <p class="texto-sobremi">
         Comunicadora Social - Periodista con más de 4 años de experiencia en
         consolidar estrategias en el área de marketing, aplicando los últimos
-        desarrollos tecnológico.
+        desarrollos tecnológicos.
       </p>
       <br />
       <p class="texto-sobremi">
@@ -21,7 +21,7 @@
       </p>
       <br />
       <p class="texto-sobremi">
-        Con gran pasión por el diseño UX/UI y el aprendizaje autónomo.
+        Con gran pasión por el diseño UX/UI, la escritura y el aprendizaje autónomo
       </p>
       <br />
     </div>
