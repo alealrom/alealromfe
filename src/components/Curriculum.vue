@@ -1,7 +1,7 @@
 <template>
 <div class="curriculum">
   <div class="container-fluid col-12">
-      <center><a class="button" href="/assets/cv-aaar.pdf">-VER CURRICULUM-</a></center>
+      <center><a class="button" target="_blank" href="/assets/cv-aaar.pdf">-VER CURRICULUM-</a></center>
       </div>
 </div>
 </template>

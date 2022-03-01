@@ -36,7 +36,7 @@
 import BLOGENTRIES from '@/statics/data/blogs.json'
 
 export default {
-  name: 'blogs',
+  name: 'blog',
   computed: {
     entries() {
       return BLOGENTRIES
