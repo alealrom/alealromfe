@@ -71,7 +71,7 @@
           />
         </div>
       </div>
-      <router-link to="/" tag="a" class="back">-INICIO-</router-link>
+      <a href="/" class="back">-INICIO-</a>
     </div>
   </div>
 </template>

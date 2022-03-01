@@ -9,12 +9,12 @@
       >
         <div class="section" v-for="entry in entries[section]" :key="entry.id">
           <div class="entry">
-            <h5 @click="$router.push({ name: entry.id })">
-              {{ entry.title }}
+            <router-link class="ruta" :to="section + '/' + entry.id"></router-link>
+              <h5>{{ entry.title }}</h5>
               <h6 class="subtitle">{{ entry.date }}</h6>
-            </h5>
             <div class="row">
               <img
+                style="aspect-ratio: 14/9"
                 class="blogimg col-12"
                 :src="`${entry.img}`"
                 alt=""
@@ -28,7 +28,7 @@
     </div>
     <router-view />
     <br/>
-    <router-link to="/" tag="a" class="back">-INICIO-</router-link>
+    <router-link to="/" class="back">-INICIO-</router-link>
   </div>
 </template>
 
@@ -55,6 +55,7 @@ export default {
 .blogimg {
   max-width: 20%;
   margin: 0px -25px 0px 25px;
+  object-fit: cover;
 }
 
 h5 {
@@ -63,6 +64,14 @@ h5 {
   color: #000000;
   text-align: left;
   margin: 0px 0px 3px 25px;
+}
+
+h6 {
+  font-family: "Cutive Mono", monospace;
+  font-weight: bold;
+  color: #000000;
+  text-align: left;
+  margin: 0px 0px 15px 25px;
 }
 
 #textblog {

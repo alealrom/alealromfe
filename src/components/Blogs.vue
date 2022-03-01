@@ -9,16 +9,14 @@
       >
         <div class="section" v-for="entry in entries[section]" :key="entry.id">
           <div class="entry">
-            <h5 @click="$router.push({ name: entry.id })">
-              {{ entry.title }}
-              <h6 class="subtitle">{{ entry.date }}</h6>
-            </h5>
+            <router-link class="ruta" :to="section + '/' + entry.id">
+              <h5>
+                {{ entry.title }}
+              </h5>
+            </router-link>
+            <h6 class="subtitle">{{ entry.date }}</h6>
             <div class="row">
-              <img
-                class="imgblog col-12"
-                v-bind:src="(`${entry.img}`)"
-                alt=""
-              />
+              <img style="aspect-ratio: 14/9" class="imgblog col-12" v-bind:src="`${entry.img}`" alt="" />
               <p id="textblog" class="col-8">{{ entry.description }}</p>
             </div>
             <div class="separador"></div>
@@ -59,9 +57,22 @@ h5 {
   margin: 0px 0px 3px 25px;
 }
 
+h6 {
+  font-family: "Cutive Mono", monospace;
+  font-weight: bold;
+  color: #000000;
+  text-align: left;
+  margin: 0px 0px 15px 25px;
+}
+
 .imgblog {
   max-width: 25%;
   margin: 0px -25px 0px 25px;
+  object-fit: cover;
+}
+
+.ruta {
+  color:#000000;
 }
 
 #textblog {
