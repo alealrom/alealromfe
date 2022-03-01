@@ -1,7 +1,7 @@
 <template>
   <div id="entradas" class="container-fluid">
     <router-view />
-    <a href="/blog" class="back">-VOLVER-</a>
+    <a href="/" class="back">-VOLVER-</a>
   </div>
 </template>
 
