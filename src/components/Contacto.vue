@@ -45,7 +45,7 @@
             ></a>
           </li>
           <li class="ms-3 con-icon">
-            <a class="icon" target="_blank" href="mailto:ale@alealrom.com"
+            <a class="icon" target="_blank" href="mailto:ale@alealrom.co"
               ><svg
               xmlns="http://www.w3.org/2000/svg"
               width="32"

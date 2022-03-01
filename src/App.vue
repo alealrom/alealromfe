@@ -11,7 +11,7 @@
     <router-view />
 
     <footer>
-      <h5 style="text-align: center">© alealrom.com</h5>
+      <h5 style="text-align: center">© alealrom.co</h5>
       <div class="justify-content-center list-unstyled d-flex">
         <li class="ms-3 con-icon">
           <a class="icon" target="_blank" href="https://www.linkedin.com/in/alealrom/"
@@ -28,7 +28,7 @@
           ></a>
         </li>
         <li class="ms-3 con-icon">
-          <a class="icon" target="_blank" href="mailto:ale@alealrom.com"
+          <a class="icon" target="_blank" href="mailto:ale@alealrom.co"
             ><svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
