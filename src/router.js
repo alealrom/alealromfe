@@ -1,7 +1,7 @@
 import Vue from "vue"
 import Router from "vue-router"
 import Home from "@/views/Home"
-import Blog from "@views/Blog"
+import Blog from "@/views/Blog"
 import Certificaciones from "@/views/Certificaciones"
 
 Vue.use(Router)
