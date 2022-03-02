@@ -16,8 +16,8 @@
             </router-link>
             <h6 class="subtitle">{{ entry.date }}</h6>
             <div class="row">
-              <img style="aspect-ratio: 14/9" class="imgblog col-12" v-bind:src="`${entry.img}`" alt="" />
-              <p id="textblog" class="col-8">{{ entry.description }}</p>
+              <img style="aspect-ratio: 16/9" class="imgblog col-12" v-bind:src="`${entry.img}`" alt="" />
+              <p id="textblog" class="col-lg-8 col-md-8 col-sm-12">{{ entry.description }}</p>
             </div>
             <div class="separador"></div>
           </div>
@@ -66,9 +66,8 @@ h6 {
 }
 
 .imgblog {
-  max-width: 25%;
   margin: 0px -25px 0px 25px;
-  object-fit: cover;
+  object-fit: fill;
 }
 
 .ruta {

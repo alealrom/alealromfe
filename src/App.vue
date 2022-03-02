@@ -104,6 +104,10 @@ export default {
   h6 {
     font-size: 19pt;
   }
+
+  .imgblog {
+    max-width: 25%;
+  }
 }
 
 @media (max-width: 1366px) {
@@ -123,6 +127,10 @@ export default {
 
   h6 {
     font-size: 17pt;
+  }
+
+  .imgblog {
+    max-width: 25%;
   }
 }
 
@@ -147,6 +155,10 @@ export default {
   h6 {
     font-size: 15pt;
   }
+  
+  .imgblog {
+    max-width: 100%;
+  }
 }
 
 @media (max-width: 480px) {
@@ -169,6 +181,10 @@ export default {
 
   h6 {
     font-size: 13pt;
+  }
+
+  .imgblog {
+    max-width: 100%;
   }
 }
 
