@@ -4,7 +4,7 @@
       <div class="container">
         <div class="linea"></div>
         <h1>ALEJANDRA ALVAREZ ROMERO</h1>
-        <h2>COMUNICADORA SOCIAL - PERIODISTA | UX/UI DESIGNER TRAINEE</h2>
+        <h2>COMUNICADORA SOCIAL - PERIODISTA</h2>
       </div>
     </header>
 

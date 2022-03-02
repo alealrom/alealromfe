@@ -5,9 +5,7 @@
 
 Desde hace unos meses que decidí empezar mi camino en el mundo de la *programación*, y me inscribí al programa de **Misión TIC** del MinTIC, siguen mis ganas continuas de poder aprender cada día más sobre las cosas que me apasionan.
 
-Durante este proceso de **Misión TIC** descubrí muchas aristas del mundo de la *programación*, hasta logré sentirme abrumada. Y es ahí, donde el mundo del *UX/UI* me cautivo y me empecé a interesar por el mundo *front-end*.
-
-Como no es un secreto que me llama mucho la atención todo lo que tiene que ver con el mundo *front-end*, en el mes de Diciembre ***Robert*** quien trabaja en **Pragma**, me invito a inscribirme al webinar sobre el **ROADMAP de un Front-End**.
+Durante este proceso de **Misión TIC** descubrí muchas aristas del mundo de la *programación*, hasta logré sentirme abrumada. Y es ahí, donde el mundo del *front-end* me cautivo. Como no es un secreto que me llama mucho la atención todo lo que tiene que ver con el mundo *front-end*, en el mes de Diciembre ***Robert*** quien trabaja en **Pragma**, me invito a inscribirme al webinar sobre el **ROADMAP de un Front-End**.
 
 Y fue así, como el día 16 de Diciembre siendo las 9:00am, me conecte por Zoom para ser parte de este *roadmap*. Realmente, no sabía que esperar, contaba con los conocimientos básicos sobre el mundo de la programación y del *front-end*, así que sí estaba un poco asustada.
 
@@ -26,11 +24,9 @@ Quedando muy claro que una *librería* es un archivo o varios archivos escritos 
 
 Por otro lado, los *frameworks* son una estructura conceptual, que sirven de soporte para la construcción de un producto. Entre los *frameworks" más populares se encuentra *Angular*, *Gatsby*, *Vue.js*, *Flutter* **|** especial utilizado para desarrollo móvil **|**, entre otras.
 
-Adicionalmente, como una manera de motivar a los participantes durante el webinar regalaron cursos de Udemy, era sencillo la persona que más rápido respondiera las preguntas, las cuales tenían que ver con temas que ya habíamos abordado en el webinar.
+Adicionalmente, como una manera de motivar a los participantes durante el webinar regalaron cursos de Udemy, era sencillo la persona que más rápido respondiera las preguntas, las cuales tenían que ver con temas que ya habíamos abordado en el webinar. Lamentablemente, no gané un curso de Udemy 😭, pero fue un webinar que disfrute y aprendí al máximo.
 
-Lamentablemente, no gané un curso de Udemy, pero fue un webinar que disfrute y aprendí al máximo.
-
-Adicionalmente, en el mes de Enero recibí un correo electrónico para ser parte del **Taller Práctico de Front-End**, donde pusimos en práctica los conceptos aprendidos y utilizamos la librería de *React*, donde además aplicamos la metodología de *Atomic Design" entendiendo tres niveles fundamentales *átomos*, *moléculas* y *organismos*.
+En el mes de Enero recibí un correo electrónico para ser parte del **Taller Práctico de Front-End**, donde pusimos en práctica los conceptos aprendidos y utilizamos la librería de *React*, donde además aplicamos la metodología de *Atomic Design" entendiendo tres niveles fundamentales *átomos*, *moléculas* y *organismos*.
 
 Teniendo así un **Roadmap de un *Front-End*** demasiado completo y que abarco no solo la teoría, si no la práctica.
 

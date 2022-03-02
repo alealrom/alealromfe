@@ -11,7 +11,7 @@ En el bello pueblito donde nací, ***Salento***, no viví sino hasta mi primer a
 
 Tuve la fortuna de estudiar la primaria, literalmente a una cuadra de donde se encuentra mi casa, así que la vida desde que tengo uso de razón transcurría casa-colegio colegio-casa.
 
-Por cierto, como olvidarlo, sí es una de las cosas más importantes que tengo en mi vida  mi ***FAMILIA***. En mi familia valga la redundancia, siempre nos ha gustado estar muy cerca, tan cerca que para que te hagas una idea, en mi casa vivíamos siete personas mi mamá, mi tía Tina, su esposo, mi prima Nathalie o como le digo yo todavía ***Corcholy***, mi abuelito y su esposa ***Luz Mary*** que aunque no es mi abuela, siempre la he considerado como tal. Y ahora somos más.
+Por cierto, como olvidarlo, sí es una de las cosas más importantes que tengo en mi vida  mi ***FAMILIA***. En mi familia valga la redundancia, siempre nos ha gustado estar muy cerca, tan cerca que para que te hagas una idea, en mi casa vivíamos siete personas mi mamá, mi tía Tina, su esposo, mi prima Nathalie o como le digo yo todavía ***Corcholy***, mi abuelito y su esposa ***Luz Mary*** que aunque no es mi abuela, siempre la he considerado como tal. Y ahora somos más 😱.
 
 El bachillerato, específicamente de sexto a noveno, lo estudié en un colegio de monjas que ya no existe **Santa María Micaela**, donde aprendí una de las cosas que utilizo frecuentemente en mi día a día, escribir utilizando "casi" todos los dedos en el computador, gracias a las clases de **mecanografía** y ¡auchhh a veces sí que dolía!
 
@@ -47,11 +47,11 @@ Es aquí donde me detuve un minuto y pensé, y sí claro pensé; que puedo hacer
 
 Como no me podía quedar sin trabajar, porque tengo obligaciones con mi persona, trabajé dos años en una franquicia de revistas digitales con sede principal en New York, como **periodista** donde poco a poco fui escalando y asumiendo más responsabilidades.
 
-Y sin dejar de lado la idea de mezclar mi profesión con otra, aprovechando los conocimientos básicos que tenía en *programación* y me inscribí a la convocatoria **Misión TIC** del MinTIC, donde aprendí las bases sobre muchos temas como Python, JAVA, bases de datos SQL y NoSQL, diseño de interfaces, entre otras. Y fue ahí donde de esos temas, me enamoré del ***UX/UI*** y dije eso tiene bastante que ver con lo que estudié, se trata en mis palabras de persuadir al usuario con palabras y darle la mejor experiencia con la interfaz, para que los procesos de las compañías se realicen con éxito.
+Y sin dejar de lado la idea de mezclar mi profesión con otra, aprovechando los conocimientos básicos que tenía en *programación* y me inscribí a la convocatoria **Misión TIC** del MinTIC, donde aprendí las bases sobre muchos temas como Python, JAVA, bases de datos SQL y NoSQL, diseño de interfaces, entre otras. Y fue ahí donde de esos temas, me enamoré del ***front-end*** y dije eso tiene bastante que ver con lo que estudié, se trata en mis palabras de persuadir al usuario con palabras y darle la mejor experiencia con la interfaz, para que los procesos de las compañías se realicen con éxito.
 
 En está etapa de **Misión TIC**, debo darle las gracias infinitas a ***Robert***, por apoyarme en el proceso y explicarme cada cosa que no lograba entender. Debo reconocer que fue difícil y sigue siendo difícil para mí comprender y entender algunos aspectos del mundo de la *programación*; y entender que para ***Robert*** brindarle apoyo a una persona tan nueva como yo en el tema, supuso también un gran desafío. Así que hoy te digo nuevamente muchas gracias.
 
-Y llegamos a hoy, donde sigo llevando el día a día, con el firme propósito de aprender aún más de esta pequeña partecita de la programación llamada ***UX/UI*** y espero algún día poderles contar como fue el viaje para llegar a ser **senior** en un tema como el *UX/UI*
+Y llegamos a hoy, donde sigo llevando el día a día, con el firme propósito de aprender aún más de esta pequeña partecita de la programación llamada ***front-end*** y espero algún día poderles contar como fue el viaje para llegar a ser **senior front-end**.
 
 ## Diez "cositas" sobre mí:
 Pensaste que me iba a ir, sin decir más, pues no. Ahora quiero contarte diez ***"cositas"*** sobre mí:
