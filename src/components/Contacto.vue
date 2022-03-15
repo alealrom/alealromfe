@@ -19,7 +19,7 @@
         </div>
         <div class="col">
           <p class="cont-info">+57 302 442 05 01</p>
-          <p class="cont-info">ale@alealrom.com</p>
+          <center><a class="cont-info" href="mailto:ale@alealrom.co">ale@alealrom.co</a></center>
         </div>
       </div>
       <div class="base"></div>
@@ -122,10 +122,10 @@ export default {
 
 .cont-info {
   font-family: "Brawler", serif;
-  font-size: 12.5pt;
+  font-size: 18px;
   color: #000000;
-  text-align: right;
-  margin: 10px 5px 5px 5px;
+  text-align: center;
+  margin: 10px 0px;
 }
 
 .base {

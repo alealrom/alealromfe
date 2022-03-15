@@ -76,7 +76,6 @@ h6 {
 
 #textblog {
   font-family: "Brawler", serif;
-  font-size: 12.5pt;
   color: #000000;
   text-align: justify;
   margin: 0px 0px 15px 25px;

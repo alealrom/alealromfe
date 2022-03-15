@@ -21,7 +21,7 @@
       </p>
       <br />
       <p class="texto-sobremi">
-        Con gran pasión por el diseño UX/UI, la escritura y el aprendizaje autónomo
+        Con gran pasión por el desarrollo front-end, la escritura y el aprendizaje autónomo.
       </p>
       <br />
     </div>
@@ -59,7 +59,6 @@ export default {
 
 .texto-sobremi {
   font-family: "Brawler", serif;
-  font-size: 12.5pt;
   color: #fcfcfa;
   text-align: justify;
   margin: 0px 25px 0px 25px;

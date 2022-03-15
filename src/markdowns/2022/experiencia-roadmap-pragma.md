@@ -1,4 +1,4 @@
-#### Mi experiencia en el ROADMAP de un Front-End de Pragma
+## Mi experiencia en el ROADMAP de un Front-End de Pragma
 ## Febrero, 2022
 
 **Por**: *Alejandra Álvarez Romero*

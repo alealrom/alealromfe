@@ -7,6 +7,7 @@
 
 <style>
 #entradas {
+  width: 100%;
   margin: 30px auto;
   max-width: 1024px;
   text-align: justify;

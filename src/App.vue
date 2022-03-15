@@ -88,21 +88,29 @@ export default {
 
 @media (max-width: 1980px) {
   h1 {
-    font-size: 59pt;
+    font-size: 69px;
   }
 
-  h2,
+  h2 {
+    font-size: 45px;
+    letter-spacing: 7.5px;
+  }
+  
   h3,
   h4 {
-    font-size: 27.4pt;
+    font-size: 38px;
   }
 
   h5 {
-    font-size: 22pt;
+    font-size: 27px;
   }
 
   h6 {
-    font-size: 19pt;
+    font-size: 22px;
+  }
+  
+  p {
+    font-size: 18px;
   }
 
   .imgblog {
@@ -112,21 +120,29 @@ export default {
 
 @media (max-width: 1366px) {
   h1 {
-    font-size: 52pt;
+    font-size: 43px;
   }
 
-  h2,
+  h2 {
+    font-size: 27.5px;
+    letter-spacing: 5px;
+  }
+
   h3,
   h4 {
-    font-size: 25.5pt;
+    font-size: 35px;
   }
 
   h5 {
-    font-size: 20pt;
+    font-size: 26px;
   }
 
   h6 {
-    font-size: 17pt;
+    font-size: 18px;
+  }
+  
+  p {
+    font-size: 18px;
   }
 
   .imgblog {
@@ -136,53 +152,63 @@ export default {
 
 @media (max-width: 768px) {
   h1 {
-    font-size: 45pt;
+    font-size: 28px;
   }
 
-  h2 {
-    font-size: 17.9pt;
+   h2 {
+    font-size: 21.5px;
+    letter-spacing: 1px;
   }
 
   h3,
   h4 {
-    font-size: 25pt;
+    font-size: 25px;
   }
 
   h5 {
-    font-size: 18pt;
+    font-size: 23px;
   }
 
   h6 {
-    font-size: 15pt;
+    font-size: 19px;
   }
   
+  p {
+    font-size: 18px;
+  }
+
   .imgblog {
     max-width: 100%;
   }
 }
 
 @media (max-width: 480px) {
-  h1 {
-    font-size: 25pt;
+ h1 {
+    font-size: 28px;
   }
 
-  h2 {
-    font-size: 11pt;
+   h2 {
+    font-size: 21.5px;
+    letter-spacing: 1px;
   }
 
   h3,
   h4 {
-    font-size: 16pt;
+    font-size: 25px;
   }
 
   h5 {
-    font-size: 16pt;
+    font-size: 23px;
   }
 
   h6 {
-    font-size: 13pt;
+    font-size: 19px;
   }
 
+  p {
+    font-size: 18px;
+  }
+  
   .imgblog {
     max-width: 100%;
   }
