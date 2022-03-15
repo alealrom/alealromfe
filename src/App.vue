@@ -253,6 +253,7 @@ footer {
 li {
   margin-top: 5px;
   margin-bottom: 20px;
+  font-size: 18px;
 }
 
 .icon:hover {
