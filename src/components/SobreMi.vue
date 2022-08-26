@@ -52,12 +52,13 @@ export default {
 .picture {
   display: block;
   margin: 10px auto 30px auto;
+  height: 180px;
 }
 
 .texto-sobremi {
   font-family: "Brawler", serif;
   color: #fcfcfa;
   text-align: justify;
-  margin: 0px 25px 0px 25px;
+  margin: 0px 16px 0px 16px;
 }
 </style>
