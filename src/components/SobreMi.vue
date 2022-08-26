@@ -10,20 +10,15 @@
         />
       </a>
       <p class="texto-sobremi">
-        Comunicadora Social – Periodista con más de cinco años de experiencia en
-        creación de estrategias de comunicación y mercadeo; planificación global
-        de contenidos; liderar y coordinar equipos; consolidar alianzas
-        estratégicas, posicionamiento de marca y relaciones públicas.
+        Comunicadora Social – Periodista con más de cinco años de experiencia en creación de estrategias de comunicación y mercadeo; planificación global de contenidos; liderar y coordinar equipos; consolidación de alianzas estratégicas, posicionamiento de marca y relaciones públicas.
       </p>
       <br />
       <p class="texto-sobremi">
-        Con conocimientos básicos en metodologías ágiles, diseño y escritura UX,
-        desarrollo web.
+        Con conocimientos básicos en metodologías ágiles, diseño y escritura UX, desarrollo web.
       </p>
       <br />
       <p class="texto-sobremi">
-        Apasionada por el desarrollo front-end, la escritura y el aprendizaje
-        autónomo.
+        Apasionada por el desarrollo front-end, la escritura y el aprendizaje autónomo.
       </p>
       <br />
     </div>
