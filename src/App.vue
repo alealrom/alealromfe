@@ -4,7 +4,6 @@
       <div class="container">
         <div class="linea"></div>
         <h1>ALEJANDRA ALVAREZ ROMERO</h1>
-        <h2>COMUNICADORA SOCIAL - PERIODISTA</h2>
       </div>
     </header>
 
@@ -92,8 +91,8 @@ export default {
   }
 
   h2 {
-    font-size: 45px;
-    letter-spacing: 7.5px;
+    font-size: 60px;
+    letter-spacing: 9px;
   }
   
   h3,

@@ -10,15 +10,15 @@
         />
       </a>
       <p class="texto-sobremi">
-        Comunicadora Social – Periodista con más de cinco años de experiencia en creación de estrategias de comunicación y mercadeo; planificación global de contenidos; liderar y coordinar equipos; consolidación de alianzas estratégicas, posicionamiento de marca y relaciones públicas.
+        Desarrolladora front-end con la capacidad de desarrollar y mantener aplicaciones web para optimizar la experiencia del usuario.
       </p>
       <br />
       <p class="texto-sobremi">
-        Con conocimientos básicos en metodologías ágiles, diseño y escritura UX, desarrollo web.
+        Con conocimientos en HTML, CSS, JavaScript, Vue.js, Gtasby.js, GIT y su plataforma GitHub, metodología ágil SCRUM y herramientas de gestión proyectos como JIRA.
       </p>
       <br />
       <p class="texto-sobremi">
-        Apasionada por el desarrollo front-end, la escritura y el aprendizaje autónomo.
+        Con amplia experiencia en comunicación y marketing digital, contenidos globales planificar, liderar y coordinar equipos.
       </p>
       <br />
     </div>
