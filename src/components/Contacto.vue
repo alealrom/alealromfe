@@ -18,7 +18,7 @@
           </svg>
         </div>
         <div class="col">
-          <p class="cont-info">+57 302 442 05 01</p>
+          <p class="cont-info">+57 324 682 20 91</p>
           <center><a class="cont-info" href="mailto:ale@alealrom.co">ale@alealrom.co</a></center>
         </div>
       </div>
